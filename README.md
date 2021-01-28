@@ -31,7 +31,7 @@ Installation:
 - npm install
 - npm start
 - npm run react-dev.
-# How to use?:
+# How to use?
 - Sign up to be authorized to all the pages of this website.
 - Log in to enter your profile.
 - Go to inventory and use the filter engine to narrow your search and get the desired car that hit your standards
